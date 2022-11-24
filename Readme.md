@@ -1,4 +1,5 @@
 # Endpoint Central + osTicket 
+![alt text](https://github.com/PRVTPRO/Integration-Endpoint-Central-Osticket/raw/main/EC%2BOSticket.png?raw=true)
 ## Endpoint Central (The token can be obtained in different ways see the API Manual)
 
 Request post
